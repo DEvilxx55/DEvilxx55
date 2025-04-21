@@ -2,7 +2,7 @@
   <img  src="https://64.media.tumblr.com/2e31ad5a11add92cda28c0634f58d72d/3461ade0a7114c32-59/s1280x1920/0f1e68ccad1d32982820507acb84a69f4726669f.pnj"/>
   <p align="center"> 
  $\color{#b60f0f}
-    {\textbf{"𝐔𝐩𝐮𝐩𝐮"}}$
+    {\textbf{"𝐔𝐩𝐮𝐩𝐮 "}}$
 <p align="center">
   <img    src="https://64.media.tumblr.com/d03a8033764cfeb0fed13fa921777264/baa8eddc8dd4c72a-e9/s540x810/1773abd7822a37a92f2068a2ffdf58d5e6137a05.pnj"/>
 </p>
