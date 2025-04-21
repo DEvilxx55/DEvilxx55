@@ -14,8 +14,6 @@ $\color{#b60f0f}{\textbf{"She/Her"}}$
  <p align="center">
 $\color{#b60f0f}{\textbf{"This graphic has been
 inspired".}}$
- 
-  
 </p>
 <p align="center">
 $\color{#ff2323}{\textbf{"Short info:"}}$
@@ -39,15 +37,7 @@ $\color{#b60f0f}{\textbf{"Check out rentry for more info!"}}$
 <p align="center">
   <img src="https://64.media.tumblr.com/324a17dffd38e84b2b2d4eed9660859b/baa8eddc8dd4c72a-03/s1280x1920/b31002c6dd0688e67b2ea1370d9881d62e895265.pnj">
 </p>
-‎
-
-
-
-
-
-
-
-<p align="center">
+‎<p align="center">
   <img src="https://64.media.tumblr.com/654ea4fc0042ee9f310a3f0141aa77e6/b21f2aa4930e8565-b7/s1280x1920/5e76efd72b9f4207d08ea99f9fcc2e7f92ce65d3.pnj">
 </p>
 <p align="center">
@@ -70,14 +60,6 @@ $\color{#6d6d6d}{\textbf{"Thank you for your attention ~~"}}$
 </p>
 <p align="center">
  <img src="https://64.media.tumblr.com/8b09e5506783a021f6bf3c3626534230/e3c1f564922c100e-c1/s1280x1920/a9b447a9bb56ec4203acdf99976412deb7215baf.pnj">
-
 <p align="center">
   <img src="https://64.media.tumblr.com/b2d6a7d6e3a6d2120f56b6f53af9ada7/ed76da2521d3cea6-86/s1280x1920/aa5351e159e2a19dbf4fd06483ca65f2e20204d5.pnj">
 </p>
-
-
-
-‎
-
-
-
