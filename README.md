@@ -11,6 +11,11 @@
 </p>
 <p align="center">
 $\color{#b60f0f}{\textbf{"She/Her"}}$
+ <p align="center">
+$\color{#b60f0f}{\textbf{"This graphic has been
+inspired".}}$
+ 
+  
 </p>
 <p align="center">
 $\color{#ff2323}{\textbf{"Short info:"}}$
@@ -58,7 +63,7 @@ $\color{#1e1e1b}{\textbf{"Español/English:"}}$
 $\color{#1e1e1b}{\textbf{"I'm 17"}}$
 </p>
 <p align="center">
-$\color{#1e1e1b}{\textbf{"Don't talk to me if you're under 14."}}$
+$\color{#1e1e1b}{\textbf{"Credits to the creator."}}$
 </p>
 <p align="center">
 $\color{#6d6d6d}{\textbf{"Thank you for your attention ~~"}}$
