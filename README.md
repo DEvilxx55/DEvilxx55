@@ -17,7 +17,6 @@
 <p align="center"><strong style="color:#b60f0f;">"She/Her"</strong></p>
 <p align="center"><strong style="color:#b60f0f;">"This graphic has been inspired."</strong></p>
 <p align="center"><strong style="color:#ff2323;">"Short info:"</strong></p>
-<p align="center"><strong style="color:#b60f0f;">"I'm Mizer"</strong></p>
 <p align="center"><strong style="color:#603030;">"I like customizable character games"</strong></p>
 <p align="center"><strong style="color:#b60f0f;">"I'm not much of a shipper."</strong></p>
 <p align="center"><strong style="color:#603030;">"I'm Junko Enoshima IRL"</strong></p>
